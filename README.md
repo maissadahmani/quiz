@@ -1,4 +1,4 @@
-web-based quiz application created using HTML, CSS, and JavaScript. The app randomly selects 5 questions out of a pool of 20, providing a unique quiz experience each time.
+Web-based quiz application created using HTML, CSS, and JavaScript. The app randomly selects 5 questions out of a pool of 20, providing a unique quiz experience each time.
 
 Features:
 1. Random selection of questions ensures variety.
